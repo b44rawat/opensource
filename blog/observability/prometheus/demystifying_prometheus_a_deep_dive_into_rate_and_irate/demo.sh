@@ -1,4 +1,4 @@
-#!/opt/homebrew/bin/bash
+#!/bin/bash
 
 # Configuration
 PUSHGATEWAY_URL="http://localhost:9091"
